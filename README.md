@@ -11,17 +11,17 @@ Copyright permission under GNU General Public License v3.0
 License -> https://github.com/FayasNoushad/URL-Uploader/blob/main/LICENSE
 ```
 
-### Deploy 
+## Deploy 
 
-Deploy on Heroku
+<b>Deploy on Heroku</b>
 <p align="left">
   <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/URL-Uploader">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
 
-Deploy in your vps
-```
+<b>Deploy in your vps</b>
+```sh
 git clone https://github.com/FayasNoushad/URL-Uploader
 cd URL-Uploader
 pip3 install -r requirements.txt
@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 
-### Variables
+## Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `API_ID` Your API ID from my.telegram.org
@@ -38,18 +38,14 @@ python3 bot.py
 * `TIME_LIMIT` For time to next process in second 
 * `UPDATE_CHANNEL` Updates channel username without '@' for force subscription
 
-### Requirements
-
-`pip3 install -r requirements.txt`
-
-### Accounts
+## Accounts
 
 * [Twitter](https://twitter.com/FayasNoushad)
 * [YouTube](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ)
 * [GitHub](https://github.com/FayasNoushad)
 * [Telegram](https://telegram.me/FayasNoushad)
 
-### Credits
+## Credits
 
 * [Fayas Noushad](https://github.com/FayasNoushad)
 * [Shrimadhav UK](https://github.com/SpEcHIDe)
