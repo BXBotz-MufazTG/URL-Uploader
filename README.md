@@ -1,6 +1,6 @@
 # URL-Uploader
 
-A simple YouTube downloader bot with permenent thumbnail support
+A simple url uploader bot with permenent thumbnail support
 
 ```
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
