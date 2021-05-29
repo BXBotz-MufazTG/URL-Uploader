@@ -23,7 +23,7 @@ Made by @FayasNoushad
 Made by @FayasNoushad
 """
     ABOUT_TEXT = """
-- **Bot :** `YouTube Downloader`
+- **Bot :** `URL Uploader`
 - **Creator :** [Fayas](https://telegram.me/TheFayas)
 - **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
 - **Credits :** `Everyone in this journey`
