@@ -41,7 +41,7 @@ async def echo(bot, update):
     url = update.text
     if Config.UPDATE_CHANNEL:
         try:
-            user = await bot.get_chat_member(Config.UPDATE_CHANNEL, update.chat.id)
+            user = await bot.get_chat_member(Config.UPDATE_CHANNEL, update.from_user.id)
             if user.status == "kicked":
               await bot.edit_message_text(text=Translation.BANNED_USER_TEXT, message_id=fmsg.message_id)
               return
