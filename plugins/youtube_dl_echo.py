@@ -47,7 +47,8 @@ async def echo(bot, update):
             log_info += "\nUser Link: " + update.from_user.mention
             await log_message.reply_text(
                 text=log_info,
-                disable_web_page_preview=True
+                disable_web_page_preview=True,
+                quote=True
             )
         except Exception as error:
             print(error)
