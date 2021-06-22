@@ -4,11 +4,7 @@ A simple url uploader bot with permenent thumbnail support
 
 ```
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
-Please fork this repository don't import code
 Made with Python3
-(C) @FayasNoushad
-Copyright permission under GNU General Public License v3.0
-License -> https://github.com/FayasNoushad/URL-Uploader/blob/main/LICENSE
 ```
 
 ## Deploy 
