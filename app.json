@@ -2,7 +2,7 @@
   "name": "URL-Uploader",
   "description": "An url uploader bot with permenent thumbnail support",
   "logo": "https://telegra.ph/file/990494b77986542ababfb.jpg"
-  "keywords": [
+  "keywords": 
     "telegram",
     "url",
     "uploader",
