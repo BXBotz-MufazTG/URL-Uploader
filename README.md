@@ -2,28 +2,9 @@
 
 A simple url uploader bot with permenent thumbnail support
 
-```
-Scrapped some code from @SpEcHIDe's AnyDLBot Repository
-Made with Python3
-```
+# Deploy To Heroku
 
-## Deploy 
-
-<b>Deploy on Heroku</b>
-<p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/URL-Uploader">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
-  </a>
-</p>
-
-<b>Deploy in your vps</b>
-```sh
-git clone https://github.com/FayasNoushad/URL-Uploader
-cd URL-Uploader
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 bot.py
-```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BXBotz-MufazTG/URL-Uploader)
 
 ## Variables
 
