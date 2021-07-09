@@ -7,9 +7,9 @@
     "uploader",
     "pyrogram"
   ],
-  "success_url": "https://github.com/FayasNoushad",
+  "success_url": "https://github.com/BXBotz-MufazTG",
   "website": "https://fayas.cf",
-  "repository": "https://github.com/FayasNoushad/URL-Uploader",
+  "repository": "https://github.com/BXBotz-MufazTG/URL-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
