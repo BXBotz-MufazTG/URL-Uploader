@@ -30,7 +30,10 @@
     "TIME_LIMIT": {
       "description": "Set timeout for subprocess (In seconds)",
       "value": "0"
-    }
+    },
+    "UPDATE_CHANNEL": {
+      "description": "To Force Sub Update Channel Without (@)",
+      "value": "BX_Botz"
   },
   "addons": [
     {
