@@ -34,7 +34,8 @@
     "UPDATE_CHANNEL": {
       "description": "To Force Sub Update Channel Without (@)",
       "value": "BX_Botz"
-  },
+  }
+    },
   "addons": [
     {
       "plan": "heroku-postgresql",
